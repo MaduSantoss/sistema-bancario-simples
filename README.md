@@ -49,13 +49,13 @@ Foi desenvolvido com foco em praticar os principais fundamentos da linguagem Pyt
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/MaduSantoss/sistema-bancario-python.git
+git clone https://github.com/MaduSantoss/sistema-bancario-simples.git
 ```
 
 2. Acesse a pasta do projeto:
 
 ```bash
-cd sistema-bancario-python
+cd sistema-bancario-simples
 ```
 
 3. Execute o programa:
